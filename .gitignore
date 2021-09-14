@@ -1,0 +1,7 @@
+*.RData
+*.rda
+*.nc4
+*.h5
+*.npy
+__pycache__
+.ipynb_checkpoints
