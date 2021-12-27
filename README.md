@@ -1,6 +1,6 @@
 # On the use of Deep Generative Models for "Perfect" Prognosis Climate Downscaling
 
-This repository contains the code to reproduce the use-case experiment of the paper *On the use of Deep Generative Models for "Perfect" Prognosis Climate Downscaling* published at Tackling Climate Change with Machine Learning Workshop (NeurIPS 2021).
+This repository contains the code to reproduce the use-case experiment of the paper [*On the use of Deep Generative Models for "Perfect" Prognosis Climate Downscaling*](https://www.climatechange.ai/papers/neurips2021/67) published at Tackling Climate Change with Machine Learning Workshop (NeurIPS 2021).
 
 ### Introduction
 
