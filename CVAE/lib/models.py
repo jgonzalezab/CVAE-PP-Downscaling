@@ -90,7 +90,7 @@ class cVAE(nn.Module):
 
         Zx = self.encodeX(x)
 
-        latentDim = 500 + Zx.shape[1]
+        latentDim = 500
         zy = torch.rand((Zx.shape[0], latentDim)).cuda()
 
         z = torch.cat((Zx, zy), dim = 1)
